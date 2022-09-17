@@ -1,5 +1,7 @@
 ### Hi there 👋
-dscd
+
+##### My name is Zhasur and I'm iOS Developer.
+##### I try to keep the code clean and structured
 <!--
 **Tron0206/Tron0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
